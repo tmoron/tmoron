@@ -1,9 +1,8 @@
-## 👋 Welcome to My GitHub!
+# 👋 Welcome to My GitHub!
 
-### About Me
-Hi, I'm tom. I am a French student currently studying at École 42. I'm interested in low-level programming, optimization, and embedded systems. I am also interested in reverse engineering, I like to see and find out how things work at the lowest level
+## About Me
+Hi, I'm Tom — a French student at École 42 with a passion for low-level programming, optimization, embedded systems, and reverse engineering. I enjoy digging into how things work at the bare-metal level.
 
-### My Projects
+## My Projects
+Most of my work lives on my personal Git server: [git.tmoron.fr/tom](https://git.tmoron.fr/tom).  
 Feel free to explore my GitHub repositories.  
-Most of my recent work is hosted on my personal Git server, which you can find [here](https://git.tmoron.fr/tom).
-
